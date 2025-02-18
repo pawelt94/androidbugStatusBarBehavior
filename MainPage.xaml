@@ -5,7 +5,7 @@
              x:Class="BugAndroid30Statusbar.MainPage">
     
     <ContentPage.Behaviors>
-        <toolkit:StatusBarBehavior StatusBarColor="Red" StatusBarStyle="LightContent" />
+        <toolkit:StatusBarBehavior StatusBarColor="Transparent" StatusBarStyle="LightContent" />
     </ContentPage.Behaviors>
     
     <ScrollView>
